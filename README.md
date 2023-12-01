@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RT-the-program
+- 👀 I’m interested in programmation and cybersecurity
+- 🌱 I’m currently learning php & MySQL
+- 💞️ I’m looking to collaborate on hacking
+- 📫 How to reach me : discord .rtdev
